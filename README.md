@@ -36,8 +36,3 @@ This Flutter project demonstrates a customizable pie chart using the `fl_chart` 
 ## License
 
 This project is licensed under the MIT License
-
----
-
-Feel free to replace the placeholders (such as screenshots and dependencies) with actual content relevant to your project. Happy coding! 🚀
-[Learn more](https://pub.dev/packages/fl_chart) about the `fl_chart` package for Flutter.
